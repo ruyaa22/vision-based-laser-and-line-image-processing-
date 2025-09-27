@@ -22,4 +22,7 @@ The pipeline extracts a **geometric error metric** from onboard camera recording
 
 - **Error Metric**  
   - Signed perpendicular distance between dot and line (px → mm via scaling)  
-  - Error statistics (RMSE, variance, clustering, etc.) 
+  - Error statistics (RMSE, variance, clustering, etc.)
+
+    
+## 📌 Data 
